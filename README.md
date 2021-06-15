@@ -1,12 +1,13 @@
 # FullStackEngineer-journey
 
 This description of the project
-Programming language
+## Programming language / System Requirements
 - Go
 - HTML+CSS+JAVASCRIPT
 - VUEjs
 - PostgreSQL
 - Linux-Debian
 
-Journey 1
-- Playing with some GOlang Languagen and Basic Algorithm in GOlang
+##Journey 1 / Week1
+- Playing with some GOlang Language and Basic Algorithm in GOlang
+- Basic HTML+CSS
